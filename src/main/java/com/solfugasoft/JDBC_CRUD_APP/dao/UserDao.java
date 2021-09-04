@@ -59,7 +59,6 @@ public class UserDao implements UserRepository {
 
     @Override
     public void getUserAuthorities(int id) {
-
     }
 
     @Override
